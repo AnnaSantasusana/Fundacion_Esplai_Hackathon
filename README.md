@@ -1,5 +1,7 @@
 # Challenge Login & Register 
 
+[![CodeFactor](https://www.codefactor.io/repository/github/annasantasusana/fundacion_esplai_hackathon/badge)](https://www.codefactor.io/repository/github/annasantasusana/fundacion_esplai_hackathon)
+
 This project implements a JWT-based authentication system for a user registration and login service. The system uses a MongoDB database to store the information of registered users. In addition, the application allows the authenticated user to get the count of users stored in the system. 
 
 ## Language and tools
